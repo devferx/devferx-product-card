@@ -1,10 +1,20 @@
 # Devferx-Product-Cart
 
-Este es una paquete de despligue en NPM
+Product Card Component
 
-## Fernando Quinteros Gutierrez
+## Install
 
-## Ejemplo
+NPM
+```
+npm install devferx-product-card
+```
+
+Yarn
+```
+yarn add devferx-product-card
+```
+
+## Example
 
 ```js
 import { ProductCard, ProductImage, ProductTitle, ProductButtons } from 'devferx-product-card'
@@ -27,3 +37,8 @@ import { ProductCard, ProductImage, ProductTitle, ProductButtons } from 'devferx
   )}
 </ProductCard>
 ```
+
+## [Demo](https://devferx-product-card-demo.netlify.app/)
+
+![Coffee card](https://i.ibb.co/xYpKHXT/devferx-product-card-demo-netlify-app.png)
+* https://devferx-product-card-demo.netlify.app/
