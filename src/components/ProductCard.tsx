@@ -1,8 +1,4 @@
-import React, {
-  createContext,
-  CSSProperties,
-  // ReactNode,
-} from 'react';
+import React, { createContext, CSSProperties } from 'react';
 
 import { useProduct } from '../hooks/useProduct';
 import {
